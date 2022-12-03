@@ -1,0 +1,16 @@
+{
+    "name": "apg/crmyt.local",
+    "description": "By YouTube course",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Apg\\CrmytLocal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "APG"
+        }
+    ],
+    "require": {}
+}
